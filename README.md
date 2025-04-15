@@ -8,8 +8,8 @@ Comparative Critique of Population Synthesis Techniques
 The text discusses various methodologies for generating synthetic populations, including deterministic reweighting, conditional probability (Monte Carlo simulation), and simulated annealing. Each method has its limitations, such as the geographical scale it can be applied to or the number of real population characteristics it can replicate. The research evaluates the performance of these methods across different spatial scales and finds that the simulated annealing algorithm produces the most consistent and accurate synthetic populations across all scales. The relative strengths and weaknesses of each method are further discussed.
 
 
-## Microsimulation Nik Lomax
-[here](https://github.com/your-username/your-repo-name/raw/main/main/Creating Realistic Synthetic Populations_published.pdf).
+##  [Microsimulation Nik Lomax ](https://github.com/your-username/your-repo-name/raw/main/Creating Realistic Synthetic Populations_published.pdf)
+Realistic Synthetic Populations_published.pdf).
 This chapter offers an overview of microsimulation techniques used to estimate the distribution and evolution of phenomena over time and across different population groups. The discussion is divided into three main research areas:
 
 1. **Generation of Synthetic Population Data**: This involves creating detailed, attribute-rich individual-level population data. These data are used to assess distributional differences or as inputs for other models.
