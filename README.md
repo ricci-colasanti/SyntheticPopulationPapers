@@ -3,7 +3,7 @@ Synthetic Population Papers
 
 
 
-## Creating Realistic Synthetic Populations at Varying Spatial Scales: A
+## Creating Realistic Synthetic Populations at Varying Spatial Scales: 
 Comparative Critique of Population Synthesis Techniques
 The text discusses various methodologies for generating synthetic populations, including deterministic reweighting, conditional probability (Monte Carlo simulation), and simulated annealing. Each method has its limitations, such as the geographical scale it can be applied to or the number of real population characteristics it can replicate. The research evaluates the performance of these methods across different spatial scales and finds that the simulated annealing algorithm produces the most consistent and accurate synthetic populations across all scales. The relative strengths and weaknesses of each method are further discussed.
 
