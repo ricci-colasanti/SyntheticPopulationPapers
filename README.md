@@ -9,6 +9,7 @@ The text discusses various methodologies for generating synthetic populations, i
 
 
 ## Microsimulation Nik Lomax
+[here](https://github.com/your-username/your-repo-name/raw/main/main/Creating Realistic Synthetic Populations_published.pdf).
 This chapter offers an overview of microsimulation techniques used to estimate the distribution and evolution of phenomena over time and across different population groups. The discussion is divided into three main research areas:
 
 1. **Generation of Synthetic Population Data**: This involves creating detailed, attribute-rich individual-level population data. These data are used to assess distributional differences or as inputs for other models.
