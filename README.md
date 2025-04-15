@@ -1,7 +1,8 @@
 # SyntheticPopulationsPapers
 Synthetic Population Papers
 
-This is a list of interesting papers on generating synthetic populations. For a more detailed exploration of some of the methods, please visit our webpage: [Synthetic Population Generation](https://ricci-colasanti.github.io/Synthetic-Population-Generation/).
+This is a list of interesting papers on generating synthetic populations. For a more detailed exploration of some of the methods, please visit our webpage: <a href="https://ricci-colasanti.github.io/Synthetic-Population-Generation/" target="_blank">Synthetic Population Generation</a>.
+
 
 ## Creating Realistic Synthetic Populations at Varying Spatial Scales  2012 
 Comparative Critique of Population Synthesis Techniques
